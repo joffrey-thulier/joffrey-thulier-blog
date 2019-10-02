@@ -1,8 +1,14 @@
 ---
-title: "About me"
+title: "Joffrey's blog"
 ---
+Name : Thulier Joffrey
 
+Teacher : Nicolas Devilez
 
-This section also must include: 
+section: Biology bachelor 2
 
-- first name/surname, teacher’s name, class name and academic year
+classroom: group 6
+
+year: 2019-2020
+
+subject: 
