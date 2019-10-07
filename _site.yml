@@ -14,5 +14,6 @@ navbar:
 base_url: https://joffrey-thulier.github.io/joffrey-thulier-blog/
 collections:
     posts:
+    discus: joffrey-thulier
       share: [twitter, linkedin, facebook]
 output: distill::distill_article

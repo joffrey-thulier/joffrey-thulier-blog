@@ -11,4 +11,4 @@ classroom: group 6
 
 year: 2019-2020
 
-subject: 
+subject: whale hunting

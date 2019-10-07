@@ -1,5 +1,5 @@
 ---
-title: "Everything you need to know about elephants"
+title: "Whale hunting"
 site: distill::distill_website
 listing: posts
 ---
