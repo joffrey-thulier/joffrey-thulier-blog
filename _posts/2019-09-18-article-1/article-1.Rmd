@@ -1,12 +1,10 @@
 ---
-title: "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time"
-author:
-  - name: Nicolas Devilez
-date: 09-18-2019
+title: " article 1 "
+author: 
+  - name: Joffrey Thulier
+date: 10/15/2019
 categories:
-  - elephant
-  - track
-preview: image/where-s-my-elephant.jpg
+preview: 
 output:
   distill::distill_article:
     self_contained: false
