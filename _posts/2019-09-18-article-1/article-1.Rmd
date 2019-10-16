@@ -2,7 +2,7 @@
 title: " article 1: "
 author: 
   - name: Joffrey Thulier
-date: 10/15/2019
+date: 08/15/2019
 categories:
 preview: 
 output:

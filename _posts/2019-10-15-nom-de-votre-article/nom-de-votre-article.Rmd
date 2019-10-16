@@ -1,11 +1,11 @@
 ---
-title: "Japan Resumes Commercial Whaling After Decades of Slaughtering Whales 'for Science"
+title: "article 1: Japan begins whaling after 30 years of peace"
 description: |
   This article is about whaling in Japan.
 author: 
-  - name: "Brandon Specktor"
+  - name: "Joffrey Thulier"
     url: {}
-date: 07-01-2019
+date: 10-21-2019
 output:
   distill::distill_article:
     self_contained: false
@@ -17,11 +17,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## I. Title of the article: 
 
-Japan resumes commercial whaling after decades of slaughtering whales'for Science'
+Japan begins whaling after 30 years of peace
 
 ## II. Name of the Magazine + Source [URL]:
 
-LiveScience: <https://www.livescience.com/65842-japanese-lift-commercial-whaling-ban.html>
+Sonoma State Star: <http://www.sonomastatestar.com/opinion/2019/9/17/japan-begins-whaling-after-30-years-of-peace>
 
 
 ##  III. Vocabulary 
@@ -35,9 +35,9 @@ LiveScience: <https://www.livescience.com/65842-japanese-lift-commercial-whaling
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | (insert names and, if possible, professions)                        |
-| Published in?                | (insert date)                                                       |
-| General topic?               |  (summarize the topic in one or two sentences)                      |
+| Researchers                  | Leah Magnuson           |
+| Published in?                | 09/17/2019                                                       |
+| General topic?               |                        |
 | Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
 | Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
 | Remaining questions?         | (check if there are still interrogations at the end of the article) |
