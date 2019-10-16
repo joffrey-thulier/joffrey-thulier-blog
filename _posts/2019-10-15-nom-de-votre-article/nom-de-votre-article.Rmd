@@ -28,8 +28,35 @@ Sonoma State Star: <http://www.sonomastatestar.com/opinion/2019/9/17/japan-begin
 
 | Words from the text | Synonym/explanation in English |
 | ------------------- | ------------------------------ |
-| E.g. To cope with   | To deal with                   |
-|                     | Not too distant future         |
+| although   | despite                   |
+| fleet| boat set         |
+| intent |plan |
+| to allow | to permit |
+| old ways | habit |
+| to grow | to accrue |
+| fading away | fade out |
+| disgust | aversion/nausea |
+| overwhelming | crushing |
+| slaughtering | killing |
+| to hoist | to elevate |
+| crane | vehicle to lift |
+| to bring | to guide/to lead |
+| to agrue | to argument |
+| scarcity | insufficiency |
+| to provide | to procure |
+| flesh | meat |
+| taste | savour |
+| to state | to declare |
+| quote | citation |
+| welfare | comfort |
+| palate | taste ( upper part off the mouth )
+| to hope | wish |
+| to avoid | to evade |
+| obsolete | outdated |
+| to occur | to come about |
+| worrisome | unreassuring |
+
+
 
 ## IV. Analysis table 
 
@@ -38,7 +65,7 @@ Sonoma State Star: <http://www.sonomastatestar.com/opinion/2019/9/17/japan-begin
 | Researchers                  | Leah Magnuson           |
 | Published in?                | 09/17/2019                                                       |
 | General topic?               | Japan throwed whaling again for commercial pruposes while the meat trade is declining.|
-| Procedure/what was examined? | (archive seach, interview,resume and read from other magazines(BBC, The Guardian) and fact finding.) |
-| Conclusions/discovery?       |  the way whales are killed discourages the Japanese from buying this meat.There is hope that whaling will wipe from Japanese customs thanks to low demand and that its trade vanish.      |
+| Procedure/what was examined? | archive seach, interview,resume and read from other magazines(BBC, The Guardian) and fact finding. |
+| Conclusions/discovery?       |  the way whales are killed discourages the Japanese from buying this meat.There is hope that whaling will wipe from Japanese customs thanks to low demand and that its trade vanish:.      |
 | Remaining questions?         | (/) |
 
