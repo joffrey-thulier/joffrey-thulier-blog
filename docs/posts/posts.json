@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2019-11-01-article-2/",
+    "title": "article 2 :What drove Japan to re-start barbaric commercial whale hunting after 30 years",
+    "description": "This article is about whaling in Japan.",
+    "author": [
+      {
+        "name": "Joffrey Thulier",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-01",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-11-01T09:13:46+01:00"
+  },
+  {
     "path": "posts/2019-10-15-nom-de-votre-article/",
     "title": "article 1: Japan begins whaling after 30 years of peace",
     "description": "This article is about whaling in Japan.",
@@ -12,7 +27,7 @@
     "date": "2019-10-21",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-10-21T13:35:03+02:00"
+    "last_modified": "2019-11-01T08:44:12+01:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",

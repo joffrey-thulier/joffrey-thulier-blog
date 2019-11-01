@@ -1,0 +1,47 @@
+---
+title: "article 2 :What drove Japan to re-start barbaric commercial whale hunting after 30 years"
+description: |
+  This article is about whaling in Japan.
+author:
+  - name: Joffrey Thulier
+    url: {}
+date: 11-01-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## I. Title of the article: 
+
+What drove Japan to re-start barbaric commercial whale hunting after 30 years.
+
+## II. Name of the Magazine + Source [URL]:
+
+Mirror: <https://www.mirror.co.uk/news/world-news/what-drove-japan-re-start-17720163>
+
+author: Rhian Lubin
+
+
+##  III. Vocabulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+
+
+## IV. Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  |             |
+| Published in?                | 08/10/2019                                                       |
+| General topic?               |  |
+| Procedure/what was examined? |   |
+| Conclusions/discovery?       |        |
+| Remaining questions?         | (/) |
+
+
+
