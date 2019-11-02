@@ -51,7 +51,7 @@ author: Rhian Lubin
 | renegade | outlaw |
 | undermine | diminish |
 | plummet | drop |
-| bleak | darkn |
+| bleak | dark |
 
 ## IV. Analysis table 
 
