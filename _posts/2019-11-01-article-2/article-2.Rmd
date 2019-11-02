@@ -6,6 +6,7 @@ author:
   - name: Joffrey Thulier
     url: {}
 date: 11-01-2019
+preview: baleine1.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -25,15 +26,32 @@ Mirror: <https://www.mirror.co.uk/news/world-news/what-drove-japan-re-start-1772
 
 author: Rhian Lubin
 
-
-![](image article 2.jpg)
-
+![](baleine.jpg)
 
 ##  III. Vocabulary 
 
 | Words from the text | Synonym/explanation in English |
 | ------------------- | ------------------------------ |
-
+| fierce | ferocious |
+| carryout| make/effect |
+| to try | to test |
+| allow | authorize |
+| sustainable | lasting/durable |
+| pull out | extract |
+| argue | protect |
+| coast | seaboard |
+| to increase | to augment |
+| *minke*, *Bryde's*, *Sei whales* | wahale species |
+| carbon footprint | scientific measurement |
+| to bind | to link / to join |
+| law | what is legal |
+| appal | alarm / to horrify |
+| within | inside |
+| to the fore | give prominenece to |
+| renegade | outlaw |
+| undermine | diminish |
+| plummet | drop |
+| bleak | darkn |
 
 ## IV. Analysis table 
 
