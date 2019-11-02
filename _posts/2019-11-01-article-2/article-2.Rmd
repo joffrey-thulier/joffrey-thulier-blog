@@ -6,7 +6,7 @@ author:
   - name: Joffrey Thulier
     url: {}
 date: 11-01-2019
-preview: baleine1.jpg
+preview: image/baleine1.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -26,7 +26,6 @@ Mirror: <https://www.mirror.co.uk/news/world-news/what-drove-japan-re-start-1772
 
 author: Rhian Lubin
 
-![](baleine.jpg)
 
 ##  III. Vocabulary 
 
