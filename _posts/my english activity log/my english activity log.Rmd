@@ -1,0 +1,19 @@
+---
+title: "My English Activity Log"
+description: |
+  What i do to improve my english.
+author:
+  - name: Joffrey Thulier
+    url: {}
+date: 11-07-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+November 07th: I studied with particlar teacher. I did exercices on pronunciation and vocabulary related to food and time.
+
