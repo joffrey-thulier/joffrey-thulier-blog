@@ -6,6 +6,7 @@ author:
   - name: Joffrey Thulier
     url: {}
 date: 11-07-2019
+preview: english.jpg
 output:
   distill::distill_article:
     self_contained: false

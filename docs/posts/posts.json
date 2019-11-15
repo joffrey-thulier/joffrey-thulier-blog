@@ -11,8 +11,8 @@
     ],
     "date": "2019-11-07",
     "categories": [],
-    "preview": {},
-    "last_modified": "2019-11-07T08:50:01+01:00"
+    "preview": "posts/my english activity log/english.jpg",
+    "last_modified": "2019-11-15T18:30:12+01:00"
   },
   {
     "path": "posts/2019-11-01-article-2/",
@@ -30,7 +30,7 @@
     "last_modified": "2019-11-02T18:03:10+01:00"
   },
   {
-    "path": "posts/2019-10-15-nom-de-votre-article/",
+    "path": "posts/2019-10-15-article 1/",
     "title": "article 1: Japan begins whaling after 30 years of peace",
     "description": "This article is about whaling in Japan.",
     "author": [
@@ -43,20 +43,5 @@
     "categories": [],
     "preview": {},
     "last_modified": "2019-11-01T08:44:12+01:00"
-  },
-  {
-    "path": "posts/2019-09-18-article-1/",
-    "title": " article 1 ",
-    "description": {},
-    "author": [
-      {
-        "name": "Joffrey Thulier",
-        "url": {}
-      }
-    ],
-    "date": "2019-10-15",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2019-10-15T13:31:47+02:00"
   }
 ]
