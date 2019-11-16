@@ -33,7 +33,30 @@ author: Megumi Sasaki
 
 | Words from the text | Synonym/explanation in English |
 | ------------------- | ------------------------------ |
-|
+| untangle | tease |
+| behind | after |
+| swallow | eat |
+| collide | crash |
+| hopeless | no hope |
+| withdrawing | take off / go out |
+| motto | word express a think |
+| tricky | delicate |
+| to threaten | to menace |
+| to endorse | to approuve |
+| to discover | to detect |
+| smart | intelligent |
+| to worship | to venerate |
+| however | but |
+| lack | absence |
+| willingness | wish |
+| to distrust | to suspect |
+| to witness | to be present |
+| foreign | strange |
+| slaughter | massacre |
+| to forbid | to ban |
+| to keep | to guard |
+| threat | menace |
+| harass | request intensively / solicit intensively |
 
 
 ## IV. Analysis table 
@@ -43,6 +66,6 @@ author: Megumi Sasaki
 | Researchers                  | / |
 | Published in?                | 10/19/2019                                                       |
 | General topic?               | whaling from the wiewpoint of the Japanese. the arguments favorable to hunting. |
-| Conclusions/discovery?       |  The bale hunters are described as barbaric by westerners but they are not very different from other hunters or farmer. To say that whales are in danger is a fiction because most species are not threatened and whales hunted represent only a small percentage of the population.      |
+| Conclusions/discovery?       |  The bale hunters are described as barbaric by westerners but they are not very different from other hunters or farmer. To say that whales are in danger is a fiction because most species are not threatened and whales hunted represent only a small percentage of the population.these activities do not endanger the envoronnement, the terrestrial resources are limited and put our emotion aside.      |
 | Remaining questions?         | (/) |
 
