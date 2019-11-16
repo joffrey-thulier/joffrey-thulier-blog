@@ -1,8 +1,8 @@
 [
   {
     "path": "posts/2019-11-15-article-3/",
-    "title": "article 3",
-    "description": "A short description of the post.",
+    "title": "article 3 : Untangling the Myth Behind the Whaling Controversy: A Director’s Take ",
+    "description": "This article is about whaling in Japan.",
     "author": [
       {
         "name": "Joffrey Thulier",
@@ -12,7 +12,7 @@
     "date": "2019-11-15",
     "categories": [],
     "preview": "posts/2019-11-15-article-3/baleine.jpg",
-    "last_modified": "2019-11-16T22:24:21+01:00"
+    "last_modified": "2019-11-16T22:35:53+01:00"
   },
   {
     "path": "posts/my english activity log/",

@@ -1,5 +1,5 @@
 ---
-title: "article 3"
+title: "article 3 : Untangling the Myth Behind the Whaling Controversy: A Director’s Take "
 description: |
   This article is about whaling in Japan.
 author:
