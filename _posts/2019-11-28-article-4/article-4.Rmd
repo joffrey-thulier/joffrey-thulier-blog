@@ -1,7 +1,7 @@
 ---
-title: "article-4"
+title: "article-4: Besides Japan, Other Countries Continue to Hunt Whales"
 description: |
-  A short description of the post.
+  This article is about whaling in Japan.
 author:
   - name: Joffrey Thulier
     url: {}
@@ -15,7 +15,29 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+## I. Title of the article: 
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+Besides Japan, Other Countries Continue to Hunt Whales
 
+## II. Name of the Magazine + Source [URL]:
+
+U.S.News : <https://www.usnews.com/news/best-countries/articles/2019-07-05/besides-japan-other-countries-continue-to-hunt-whales?fbclid=IwAR0_aaF2MoHsy_D78zpxeE9cgu0-5yaxjK8sbHCvqT5DWuaC9F1wlDN0Uuo>
+
+author: Lauren Favre
+
+
+##  III. Vocabulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+|aaaaa
+
+## IV. Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Kitty Block: President of Humane Society International.|
+| Published in?                | 07/05/2019                       |
+| General topic?               |  Japan is not the only country to hunt whales. There is also Norway and Iceland|
+| Conclusions/discovery?       |   Japan is not the only country to hunt whales. There is also Norway and Iceland either under objection to the moratorium decision, or under reservation to it.The Russian Federation has also objected to the moratorium, but has not proceeded to resume whaling.Japan hunts for Sei whales, they are classified as endangered.The IWC sets catch limits for commercial whaling in international seas, the organization currently has 88 members.en quittant le IWC, le japon have been seeing son quota de baleine diminué.     |
+| Remaining questions?         | (/) |
