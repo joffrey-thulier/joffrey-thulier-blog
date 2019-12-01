@@ -6,6 +6,7 @@ author:
   - name: Joffrey Thulier
     url: {}
 date: 11-28-2019
+preview: baleine.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -30,7 +31,20 @@ author: Lauren Favre
 
 | Words from the text | Synonym/explanation in English |
 | ------------------- | ------------------------------ |
-|aaaaa
+| earlier | before |
+| bring | take |
+| catch | fishing/hunting |
+| withdraw | retreat |
+| spite | after |
+| still | again |
+| within | on the inside off |
+| thing | aspects |
+| enough | sufficiently |
+| way | manner |
+| pregnant | carrying a foetus |
+| solely | only |
+| tell | inform |
+| fewer | less |
 
 ## IV. Analysis table 
 
