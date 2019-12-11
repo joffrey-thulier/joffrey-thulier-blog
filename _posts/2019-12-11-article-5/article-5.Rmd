@@ -31,13 +31,21 @@ author: Loukia Papadopoulos
 
 | Words from the text | Synonym/explanation in English |
 | ------------------- | ------------------------------ |
-|
+| tough | difficult |
+| ruthless | hardline |
+| wildlife | fauna |
+| forward | lead |
+| outset | beginning |
+| software | computer program |
+| findings | result of investigation |
+| needed | necessary |
+| folk | people |
 
 ## IV. Analysis table 
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | |
+| Researchers                  | Grant Adams, John Best and André Punt from the University of Washington’s School of Aquatic and Fishery Sciences. |
 | Published in?                | 12/08/2019                       |
 | General topic?               | The humpback whale population had been inscreasing and is off the red list of endangered species. |
 | Procedure/what was examined? |  count the number of humpback whales and compare with detailed records from the whaling industry at the outset of commercial exploitation as well as using advanced modeling techniques.|
