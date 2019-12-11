@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2019-12-11-article-5/",
+    "title": "article-5",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Joffrey Thulier",
+        "url": {}
+      }
+    ],
+    "date": "2019-12-11",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-12-11T14:30:15+01:00"
+  },
+  {
     "path": "posts/2019-11-28-article-4/",
     "title": "article-4: Besides Japan, Other Countries Continue to Hunt Whales",
     "description": "This article is about whaling in Japan.",
@@ -26,8 +41,8 @@
     ],
     "date": "2019-11-15",
     "categories": [],
-    "preview": "posts/2019-11-15-article-3/baleine.jpg",
-    "last_modified": "2019-11-16T22:35:53+01:00"
+    "preview": {},
+    "last_modified": "2019-12-11T14:27:54+01:00"
   },
   {
     "path": "posts/my english activity log/",
