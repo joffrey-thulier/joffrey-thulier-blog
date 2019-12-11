@@ -1,8 +1,8 @@
 [
   {
     "path": "posts/2019-12-11-article-5/",
-    "title": "article-5",
-    "description": "A short description of the post.",
+    "title": "article-5: Humpback Whale Escapes Near Extinction With Population Growing From 450 to 25,000",
+    "description": "This article is about humpback whales.",
     "author": [
       {
         "name": "Joffrey Thulier",
@@ -11,8 +11,8 @@
     ],
     "date": "2019-12-11",
     "categories": [],
-    "preview": {},
-    "last_modified": "2019-12-11T14:30:15+01:00"
+    "preview": "posts/2019-12-11-article-5/baleine-a-bosse-albinos.jpg",
+    "last_modified": "2019-12-11T14:47:48+01:00"
   },
   {
     "path": "posts/2019-11-28-article-4/",
@@ -41,8 +41,8 @@
     ],
     "date": "2019-11-15",
     "categories": [],
-    "preview": {},
-    "last_modified": "2019-12-11T14:27:54+01:00"
+    "preview": "posts/2019-11-15-article-3/baleine.jpg",
+    "last_modified": "2019-12-11T14:37:50+01:00"
   },
   {
     "path": "posts/my english activity log/",

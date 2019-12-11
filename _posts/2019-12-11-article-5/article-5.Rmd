@@ -1,11 +1,12 @@
 ---
-title: "article-5"
+title: "article-5: Humpback Whale Escapes Near Extinction With Population Growing From 450 to 25,000"
 description: |
-  A short description of the post.
+  This article is about humpback whales.
 author:
   - name: Joffrey Thulier
     url: {}
 date: 12-11-2019
+preview: baleine-a-bosse-albinos.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -17,42 +18,29 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## I. Title of the article: 
 
-Besides Japan, Other Countries Continue to Hunt Whales
+Humpback Whale Escapes Near Extinction With Population Growing From 450 to 25,000
 
 ## II. Name of the Magazine + Source [URL]:
 
-U.S.News : <https://www.usnews.com/news/best-countries/articles/2019-07-05/besides-japan-other-countries-continue-to-hunt-whales?fbclid=IwAR0_aaF2MoHsy_D78zpxeE9cgu0-5yaxjK8sbHCvqT5DWuaC9F1wlDN0Uuo>
+intersting engineering : <https://interestingengineering.com/humpback-whale-escapes-near-extinction-with-population-growing-from-450-to-25000?fbclid=IwAR2v8-Owg7LOWoQT2RODvKzai0vs5s11JDQ21pUxW-wecBdv79rhSpq1A9w>
 
-author: Lauren Favre
+author: Loukia Papadopoulos
 
 
 ##  III. Vocabulary 
 
 | Words from the text | Synonym/explanation in English |
 | ------------------- | ------------------------------ |
-| earlier | before |
-| bring | take |
-| catch | fishing/hunting |
-| withdraw | retreat |
-| spite | after |
-| still | again |
-| within | on the inside off |
-| thing | aspects |
-| enough | sufficiently |
-| way | manner |
-| pregnant | carrying a foetus |
-| solely | only |
-| tell | inform |
-| fewer | less |
+|
 
 ## IV. Analysis table 
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | Kitty Block: President of Humane Society International.|
-| Published in?                | 07/05/2019                       |
-| General topic?               |  Japan is not the only country to hunt whales. There is also Norway and Iceland|
-| Conclusions/discovery?       |   Japan is not the only country to hunt whales. There is also Norway and Iceland either under objection to the moratorium decision, or under reservation to it.The Russian Federation has also objected to the moratorium, but has not proceeded to resume whaling.Japan hunts for Sei whales, they are classified as endangered.The IWC sets catch limits for commercial whaling in international seas, the organization currently has 88 members.en quittant le IWC, le japon have been seeing son quota de baleine diminué.     |
+| Researchers                  | |
+| Published in?                | 12/08/2019                       |
+| General topic?               |  |
+| Conclusions/discovery?       |         |
 | Remaining questions?         | (/) |
 
 
