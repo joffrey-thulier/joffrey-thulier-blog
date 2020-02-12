@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-02-12-article-6/",
+    "title": "article-6: Iceland didn’t hunt any whales in 2019 – and public appetite for whale meat is fading. ",
+    "description": "This article is about humpback whales.",
+    "author": [
+      {
+        "name": "Joffrey Thulier",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-12",
+    "categories": [],
+    "preview": "posts/2020-02-12-article-6/baleine6.jpg",
+    "last_modified": "2020-02-12T17:40:24+01:00"
+  },
+  {
     "path": "posts/2019-12-11-article-5/",
     "title": "article-5: Humpback Whale Escapes Near Extinction With Population Growing From 450 to 25,000",
     "description": "This article is about humpback whales.",
@@ -12,7 +27,7 @@
     "date": "2019-12-11",
     "categories": [],
     "preview": "posts/2019-12-11-article-5/baleine-a-bosse-albinos.jpg",
-    "last_modified": "2019-12-11T21:35:08+01:00"
+    "last_modified": "2019-12-11T21:35:10+01:00"
   },
   {
     "path": "posts/2019-11-28-article-4/",

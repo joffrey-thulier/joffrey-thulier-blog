@@ -1,0 +1,49 @@
+---
+title: "article-6: Iceland didn’t hunt any whales in 2019 – and public appetite for whale meat is fading. "
+description: |
+  This article is about humpback whales.
+author:
+  - name: Joffrey Thulier
+    url: {}
+date: 02-12-2020
+preview: baleine6.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## I. Title of the article: 
+
+Iceland didn’t hunt any whales in 2019 – and public appetite for whale meat is fading
+
+## II. Name of the Magazine + Source [URL]:
+
+intersting engineering : <https://theconversation.com/iceland-didnt-hunt-any-whales-in-2019-and-public-appetite-for-whale-meat-is-fading-127504>
+
+author: Joe Roman 
+
+
+##  III. Vocabulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| 
+
+## IV. Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  |   (/) |
+| Published in?                |  01/21/2020                      |
+| General topic?               |  Iceland, which is one of the 3 countries authorize whaling, has no whale hunting in 2019.  |
+| Procedure/what was examined? |  look at the ecological contributions of whales on the marine environment (defecation, carcass, ...).  |
+| Conclusions/discovery?       |  Iceland did not hunt any whales in 2019 while the authorise.They realized that whales were more useful alive than dead, less and less people eat their meats. Whales are important in the environment and tourism around whales (observe them) is more profitable than their meat.pressure from other countries and the bad picture it brings, led the Icelanders to stop whaling.       |
+| Remaining questions?         | (/) |
+
+
+
