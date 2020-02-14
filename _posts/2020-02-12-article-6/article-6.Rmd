@@ -32,13 +32,38 @@ author: Joe Roman
 
 | Words from the text | Synonym/explanation in English |
 | ------------------- | ------------------------------ |
-| 
+|| quarry | capture |
+| way | manner |
+to strike | to catch |
+| ship | boat |
+| entangled | remain blocked |
+| noise | sound |
+|harm | damage |
+| fellowship | scholarship, money for student |
+| alive | live |
+| to provide | to furnish |
+| egregious | outrageous |
+| to rule | to govern |
+| chofe | irritate |
+| threat | menace |
+| unwilling | averse, disinclined |
+| trade | commerce |
+| gloomy | bleak |
+| though | hard |
+| behavior | conduct |
+| to order | to procure |
+| to watch | to observe |
+| grocery store | food market |
+| dru up | consume, drain |
+| denial | refusal |
+| lack | absence |
+| to schifts | to change |
 
 ## IV. Analysis table 
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  |   (/) |
+| Researchers                  |    Sigursteinn Másson: program leader for the local whale-watching association IceWhale and representative of the International Fund for Animal Welfare.  |
 | Published in?                |  01/21/2020                      |
 | General topic?               |  Iceland, which is one of the 3 countries authorize whaling, has no whale hunting in 2019.  |
 | Procedure/what was examined? |  look at the ecological contributions of whales on the marine environment (defecation, carcass, ...).  |
