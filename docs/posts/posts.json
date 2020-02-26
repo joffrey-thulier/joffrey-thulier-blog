@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-02-26-article-7/",
+    "title": "article-7 :Whales hunted to brink of extinction making a comeback, new evidence suggests",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Joffrey Thulier",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-26",
+    "categories": [],
+    "preview": "posts/2020-02-26-article-7/baleine7.jpg",
+    "last_modified": "2020-02-26T14:45:52+01:00"
+  },
+  {
     "path": "posts/2020-02-12-article-6/",
     "title": "article-6: Iceland didn’t hunt any whales in 2019 – and public appetite for whale meat is fading. ",
     "description": "This article is about humpback whales.",
