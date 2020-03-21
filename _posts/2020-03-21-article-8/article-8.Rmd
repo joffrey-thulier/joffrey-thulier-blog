@@ -1,12 +1,11 @@
 ---
-title: "article-8:Endangered Blue Whales Make 'Unprecedented' Comeback to South Georgia Island"
+title: "article-8"
 description: |
   A short description of the post.
 author:
   - name: Joffrey Thulier
     url: {}
-date: 03-15-2020
-preview: 
+date: 03-21-2020
 output:
   distill::distill_article:
     self_contained: false
@@ -15,10 +14,6 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-
-Distill is a publication format for scientific and technical writing, native to the web.
-
-Learn more about using Distill at <https://rstudio.github.io/distill>.
 
 
 ## I. Title of the article: 
@@ -54,3 +49,4 @@ author:  Olivia Rosane
 | Procedure/what was examined? |  observe and count the number of whales. |
 | Conclusions/discovery?       |  CBI researchers must carry out a study to confirm the return of the whales  |
 | Remaining questions?         |  (/) |
+
