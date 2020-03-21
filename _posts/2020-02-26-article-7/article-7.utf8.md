@@ -1,0 +1,52 @@
+---
+title: "article-7 :Whales hunted to brink of extinction making a comeback, new evidence suggests"
+description: |
+  A short description of the post.
+author:
+  - name: Joffrey Thulier
+    url: {}
+date: 02-26-2020
+preview: baleine7.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+
+## I. Title of the article: 
+
+Whales hunted to brink of extinction making a comeback, new evidence suggests
+
+## II. Name of the Magazine + Source [URL]:
+
+intersting engineering : <https://www.rnz.co.nz/news/national/409910/whales-hunted-to-brink-of-extinction-making-a-comeback-new-evidence-suggests>
+
+author:  unknown
+
+
+##  III. Vocabulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| own | personal |
+| slaughter | kill animals |
+| thrill | enjoyment |
+| breed | reproduce |
+| to sight | to spot |
+| trend | tendency |
+| southern right whale | whale species |
+| elsewhere | other place | 
+
+
+## IV. Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Dr Emma Caroll: University of Auckland whale researcher |
+| Published in?                | 02/19/20 |
+| General topic?               | the whales which was in endangered during the hunting, return to stable populations as before the overhunting. |
+| Procedure/what was examined? |  a whale population study on South Georgia Island in the south west Atlantic Ocean. |
+| Conclusions/discovery?       |  The study must continue to see if the whale populations remain constant in Georgia, whales do not always feed in the even spot every year. |
+| Remaining questions?         |  (/) |
+
