@@ -1,0 +1,33 @@
+---
+title: "introduction"
+description: |
+  introduction of the portfolio.
+author:
+  - name: Joffrey Thulier
+    url: {}
+date: 04-11-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+In 2019, Japan resumed the whale hunting. July 1 of this year, the first fleet was sent in order to slaughter a whale. It hadn't happened since 30 years.
+
+The japanese want to revive whale meat industry but many people are disgusted and find that barbaric. For kill whales, the boats impale the whales several times then go back up the body thanks to a crane.
+
+Officially, Japan had never sent a boat since 1986 but he never really stopped hunting. He hunt with as an excuse that was for scientific research. However Japan is authorize to hunt that in its waters of their economic area where he hunts Minke, Bryde's and Sei whales, Minke and Bryde's whales are not endangered and Sei whale are ranked as endangered but their population is increasing by the UCN red list of threatined species.
+
+Japan resumed the international whaling commission (IWC) for be able to hunt. The IWC is a organization which is intended to whale protection and includes 88 members.
+
+But Japan is not the only country to hunt whales. Norway and Iceland do it too but they remained in IWC and opposes the moratorium of this organization to be able to hunt for commercial purposes. Russian contest also the moratorium but don't take part in whaling.
+
+In addition to hunting , whales die for other reason as stuck in fishing lines, hit by boats and wound by ocean noise.
+
+For a long time, studies looked the amount of fish and krill what did the wale eat and their cost on the fishery. For more or less 10 years, researchers look at their ecological role on the oceans.Their excretion are rich in nutriments and give nitrogen, iron and phosphorous to algae that increases productivity in areas where whales feed so more fish and plankton. They play an role in the carbon cycle, whale carcass sink in deep waters and supply a habitat for many species that depend on bones and nutrients.
+
+What impact will this hunt have ?
