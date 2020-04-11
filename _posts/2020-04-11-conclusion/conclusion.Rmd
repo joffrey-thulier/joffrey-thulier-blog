@@ -1,0 +1,29 @@
+---
+title: "conclusion"
+description: |
+  conclusion of the portfolio
+author:
+  - name: Joffrey Thulier
+    url: {}
+date: 04-11-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+The stoppage of the whaling gave on environmental protection movement.
+Japan resumed for culture but before whale meat was the main source of food (particalary after the second world war), when now no longer useful. Japan want to profit despite the whale population.
+The whalers defend that whales hunted represents only 1% of the total population and that scientific studies prove that their activities do not threaten the environment. The IWC restrict the number of whale hunted at 227 per year. But japanese have lost the taste of whale meat and the industry has decreased by 99% .
+IWC is afroid that the withdrawal from japan pushes other countries to leave the organization even if political and media pressure would discourage them.
+
+Same thing for Icelanders who saw the desmonstrations against whaling as a threat to their heritage and endured a lot of pressure when they resumed hunting in 2002. But in 2019, Iceland did not hunt any whales because they noticed that they were more useful alive, they have a role ecological, spiritual and economic (whale watching).
+
+The whaling industry has wreaked havoc on populations, especially for humpback whales which had increased their populations to 450 in the 90s .
+Whale protection takes effect and humpabck whales have seen their numbers increased until reaching their populations before hunting other whale populations are almost recovering. 
+
+A study was done in southern Georgia a food area for whales and seals in 2019. When the whaling industry discovered this food area in the first half of the 20 century, it has become an important hunting field for whales and seals. They have exterminated approximately 97% of blue whale populations, now this area has been protecting. Researchers observed more blue whales in 2019 than other years without krill migration to this area that year but conversely they observed more southern right whale in 2018 than in 2019, researchers think they have eaten elsewhere. It will take a long-term study to confirm the increase in blue whale population. But environmental protection is already having a positive effect on the humpback whale population, which has greatly increased.
+
