@@ -1,0 +1,64 @@
+---
+title: "bibliography"
+description: |
+  biblography of the portfolio
+author:
+  - name: Joffrey Thulier
+    url: {}
+date: 04-12-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+**article 1**
+
+Leah Magnuson,Japan begins whaling after 30 years of peace , <http://www.sonomastatestar.com/opinion/2019/9/17/japan-begins-whaling-after-30-years-of-peace> , Sonoma State Star.
+
+last visit: 04/12/20
+
+**artcle 2**
+
+Rhian Lubin, What drove Japan to re-start barbaric commercial whale hunting after 30 years.,<https://www.mirror.co.uk/news/world-news/what-drove-japan-re-start-17720163> , Mirror
+
+last visit: 04/12/20
+
+**article 3**
+
+Megumi Sasaki, Japan begins whaling after 30 years of peace, <http://japan-forward.com/untangling-the-myth-behind-the-whaling-controversy-a-directors-take/>, JapanForward
+
+last visit: 04/12/20
+
+**article 4**
+
+Lauren Favre, Besides Japan, Other Countries Continue to Hunt Whales, <https://www.usnews.com/news/best-countries/articles/2019-07-05/besides-japan-other-countries-continue-to-hunt-whales?fbclid=IwAR0_aaF2MoHsy_D78zpxeE9cgu0-5yaxjK8sbHCvqT5DWuaC9F1wlDN0Uuo>, U.S.News
+
+last visit: 04/12/20
+
+**article 5**
+
+Loukia Papadopoulos, Humpback Whale Escapes Near Extinction With Population Growing From 450 to 25,000, <https://interestingengineering.com/humpback-whale-escapes-near-extinction-with-population-growing-from-450-to-25000?fbclid=IwAR2v8-Owg7LOWoQT2RODvKzai0vs5s11JDQ21pUxW-wecBdv79rhSpq1A9w>, intersting engineering
+
+last visit: 04/12/20
+
+**article 6**
+
+Joe Roman, Iceland didn’t hunt any whales in 2019 – and public appetite for whale meat is fading, <https://theconversation.com/iceland-didnt-hunt-any-whales-in-2019-and-public-appetite-for-whale-meat-is-fading-127504>, intersting engineering
+
+last visit: 04/12/20
+
+**article 7**
+
+Whales hunted to brink of extinction making a comeback, new evidence suggests,<https://www.rnz.co.nz/news/national/409910/whales-hunted-to-brink-of-extinction-making-a-comeback-new-evidence-suggests>, intersting engineering
+
+last visit: 04/12/20
+
+**article 8**
+
+Olivia Rosane, Endangered Blue Whales Make ‘Unprecedented’ Comeback to South Georgia Island, <https://www.ecowatch.com/endangered-blue-whales-comeback-2645234395.html?rebelltitem=3#rebelltitem3>, intersting engineering
+
+last visit: 04/12/20

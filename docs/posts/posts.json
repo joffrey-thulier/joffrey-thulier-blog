@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-04-12-bibliography/",
+    "title": "bibliography",
+    "description": "biblography of the portfolio",
+    "author": [
+      {
+        "name": "Joffrey Thulier",
+        "url": {}
+      }
+    ],
+    "date": "2020-04-12",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-04-12T20:28:45+02:00"
+  },
+  {
     "path": "posts/2020-04-11-conclusion/",
     "title": "conclusion",
     "description": "conclusion of the portfolio",
